@@ -1,0 +1,243 @@
+﻿#EXTM3U x-tvg-url="http://iptv-epg.com/e2ba-oxnpy4.xml.gz"
+#EXTINF:-1 tvg-chno="8" tvg-id="HumTV.pk" tvg-name="Hum TV PK" tvg-logo="http://fomny.com/Video/Arabic/Huda-Tv/logo.gif" group-title="IPTV",Huda Tv
+http://212.224.72.196:2200/TN/huda-ar/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://fomny.com/Video/United-kindom/MTA-Al-Islam-muslim-Tv-Uk/logo2.gif" group-title="IPTV",MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-chno="10" tvg-id="Sunnah.sa" tvg-name="Sunnah SA" tvg-logo="http://static.iptv-epg.com/sa/Sunnah.sa.png" group-title="IPTV",Sunnah TV
+http://livecdnh2.tvanywhere.ae/hls/sunnah/03.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="AlResalah.sa" tvg-name="Al Resalah SA" tvg-logo="http://static.iptv-epg.com/sa/AlResalah.sa.png" group-title="IPTV",AL Resala
+http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="AlMajdQuran.sa" tvg-name="Al Majd Quran SA" tvg-logo="http://static.iptv-epg.com/sa/AlMajdQuran.sa.png" group-title="IPTV",Al Majid Holy Quran
+http://livecdnh3.tvanywhere.ae/hls/majd/index.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="Peachtree.ca" tvg-name="Peachtree TV CA" tvg-logo="https://i.pinimg.com/originals/cb/51/59/cb51596e3efd4a381d593cdd528928ff.png" group-title="IPTV",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="IqraaTV.sa" tvg-name="Iqraa TV SA" tvg-logo="http://static.iptv-epg.com/sa/IqraaTV.sa.png" group-title="IPTV",Iqra
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://lh5.googleusercontent.com/-U2hWtBCaCdU/VWHOOB19pKI/AAAAAAAADHM/xDxWtRVlCSA/w391-h266-no/ahl-alquran.png" group-title="IPTV",Ahl -Alquran TV
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist_w358424849_b1364000.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="MakkalTV.in" tvg-name="Makkal TV IN" tvg-logo="http://fomny.com/Video/Arabic/03/makkah/logo2.gif" group-title="IPTV",Makkah Tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="17" tvg-id="SaudiQuran.sa" tvg-name="Saudi Quran SA" tvg-logo="http://static.iptv-epg.com/sa/SaudiQuran.sa.png" group-title="IPTV",Quran TV
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-logo="http://fomny.com/Video/United-kindom/Guide-us-tv/logo.gif" group-title="IPTV",Guide Us TV
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="NollTV.kr" tvg-name="Noll TV KR" group-title="IPTV",Noble TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="20" tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fWor-YyUL._SY355_.png" group-title="IPTV",Al Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="21" tvg-id="CNN.us" tvg-name="CNN US" tvg-logo="http://static.iptv-epg.com/us/CNN.us.png" group-title="IPTV",CNN
+http://ott-cdn.ucom.am/s27/04.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="LaSexta.es" tvg-name="La Sexta ES" tvg-logo="http://gammainvest.net/wp-content/uploads/2019/12/extra.jpg" group-title="IPTV",Extra News
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/5489
+#EXTINF:-1 tvg-chno="23" tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" group-title="IPTV",BBC Arabic
+http://livecdnh2.tvanywhere.ae/hls/bbc_ar/04.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://www.parsatv.com/index_files/channels/alhadath.jpg" group-title="IPTV",Al Hadath TV
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen LB" tvg-logo="http://static.iptv-epg.com/lb/AlMayadeen.lb.png" group-title="IPTV",Al Mayadeen
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="AlJazeera.qa" tvg-name="Al Jazeera QA" tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="IPTV",AlJazeera
+http://92.43.140.249/s69/03.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="27" tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher QA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="IPTV",AlJazeera Mubasher
+http://localhd.tv:8081/live/abo2209/fGUnk6Xt8w/2132.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://fomny.com/Video/Arabic/03/ANN-Tv/logo.gif" group-title="IPTV",Ann
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/5597
+#EXTINF:-1 tvg-chno="29" tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.iptv-epg.com/sa/Alarabiya.sa.png" group-title="IPTV",Al Arabiya
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/5470
+#EXTINF:-1 tvg-chno="30" tvg-id="RTArab.ru" tvg-name="RT Arab RU" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="IPTV",RT Arabic
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="AlAoula.ma" tvg-name="Al Aoula MA" tvg-logo="http://fomny.com/Video/Arabic/Alalam-News-Iran/logo.gif" group-title="IPTV",Al Alam
+http://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="OrientTV.sy" tvg-name="Orient TV SY" tvg-logo="https://p1.hiclipart.com/preview/536/784/1015/orient-tv-logo-png-clipart.jpg" group-title="IPTV",Orient TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/orienttv_chunks.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="ARTAflam1.sa" tvg-name="ART Aflam 1 SA" tvg-logo="http://static.iptv-epg.com/sa/ARTAflam1.sa.png" group-title="IPTV",ART Aflam 1
+http://line.it-ott.net:8000/VFS56PecA4/Z119vkc4Am/6682
+#EXTINF:-1 tvg-chno="34" tvg-id="ARTAflam2.sa" tvg-name="ART Aflam 2 SA" tvg-logo="http://static.iptv-epg.com/sa/ARTAflam2.sa.png" group-title="IPTV",ART Aflam 2
+http://87.120.36.166/live/khurana899/x0gw0r/4533.ts
+#EXTINF:-1 tvg-chno="35" tvg-id="PrarthanaTV.in" tvg-name="Prarthana TV IN" tvg-logo="https://pbs.twimg.com/profile_images/969682033093087233/xdoLTAKD_400x400.jpg" group-title="IPTV",ART Hekayat
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6680.ts
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://i86.servimg.com/u/f86/16/98/17/92/118210.png" group-title="IPTV",ART Hekayat 2
+http://87.120.36.166/live/khurana899/x0gw0r/4535.ts
+#EXTINF:-1 tvg-chno="37" tvg-id="ARTCinema.sa" tvg-name="ART Cinema SA" tvg-logo="https://i.ytimg.com/vi/sj0Q01zlOlQ/hqdefault.jpg" group-title="IPTV",ART Cinema
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6683.ts
+#EXTINF:-1 tvg-chno="38" tvg-id="MBC1.ae" tvg-name="MBC 1 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC1.ae.png" group-title="IPTV",MBC 1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" group-title="IPTV",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="MBC3.ae" tvg-name="MBC 3 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC3.ae.png" group-title="IPTV",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="MBC4.sa" tvg-name="MBC 4 SA" tvg-logo="http://static.iptv-epg.com/sa/MBC4.sa.png" group-title="IPTV",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="MBC5.ma" tvg-name="MBC 5 MA" tvg-logo="https://fomny.com/Video/Maroc/MBC5/logo.gif" group-title="IPTV",MBC 5
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/135184.ts
+#EXTINF:-1 tvg-chno="43" tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="IPTV",MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="MBCDrama.ae" tvg-name="MBC Drama AE" tvg-logo="http://static.iptv-epg.com/ae/MBCDrama.ae.png" group-title="IPTV",MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama+ AE" tvg-logo="http://static.iptv-epg.com/ae/MBCDramaPlus.ae.png" group-title="IPTV",MBC Drama Plus
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/21686.ts
+#EXTINF:-1 tvg-chno="46" tvg-id="MBCVariety.ae" tvg-name="MBC Variety AE" tvg-logo="http://static.iptv-epg.com/ae/MBCVariety.ae.png" group-title="IPTV",MBC Variety
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/7233.ts
+#EXTINF:-1 tvg-chno="47" tvg-id="MBCBollywood.sa" tvg-name="MBC Bollywood SA" tvg-logo="http://static.iptv-epg.com/sa/MBCBollywood.sa.png" group-title="IPTV",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8?v=o92203192038f31
+#EXTINF:-1 tvg-chno="48" tvg-id="MbcMasr.eg" tvg-name="MBC Masr EG" tvg-logo="http://static.iptv-epg.com/eg/MbcMasr.eg.png" group-title="IPTV",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="NBN.lb" tvg-name="NBN LB" tvg-logo="http://static.iptv-epg.com/lb/NBN.lb.png" group-title="IPTV",NBN
+http://87.120.36.166/live/khurana899/x0gw0r/2110.ts
+#EXTINF:-1 tvg-chno="50" tvg-id="LBC.lb" tvg-name="LBC LB" tvg-logo="http://static.iptv-epg.com/lb/LBC.lb.png" group-title="IPTV",LBC
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon LB" tvg-logo="http://static.iptv-epg.com/lb/MTVLebanon.lb.png" group-title="IPTV",MTV Lebanon
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="AlManar.lb" tvg-name="Al Manar LB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/New_Al-Manar_logo.PNG/200px-New_Al-Manar_logo.PNG" group-title="IPTV",AlManar
+https://manar.live/iptv/index.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="53" tvg-id="OTVLebanon.lb" tvg-name="OTV Lebanon LB" tvg-logo="http://static.iptv-epg.com/lb/OTVLebanon.lb.png" group-title="IPTV",OTV Lebanon
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="FutureTVAr.lb" tvg-name="Future TV AR LB" tvg-logo="http://static.iptv-epg.com/lb/FutureTVAr.lb.png" group-title="IPTV",FutureTV
+http://livecdnh2.tvanywhere.ae/hls/future/index.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="AlJadeed.lb" tvg-name="Al Jadeed LB" tvg-logo="http://static.iptv-epg.com/lb/AlJadeed.lb.png" group-title="IPTV",AlJadeed
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="SyriaSatelliteChannel.sy" tvg-name="Syria Satellite Channel SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaSatelliteChannel.sy.png" group-title="IPTV",Syria Tv
+http://82.137.248.16:1935/Sat/stream31122019/chunklist_w1567106609.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" group-title="IPTV",Syria Drama
+http://www.elahmad.com/tv/m3u8/tv1_anywhere.m3u8?id=syria_drama
+#EXTINF:-1 tvg-chno="58" tvg-id="SamaaTV.pk" tvg-name="Samaa TV PK" tvg-logo="http://static.iptv-epg.com/pk/SamaaTV.pk.png" group-title="IPTV",Sama TV
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="59" tvg-id="PalestineTV.sa" tvg-name="Palestine TV SA" tvg-logo="https://vop.ps/file/attachs/32555.jpg" group-title="IPTV",Palestine TV
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="PalestineTV.sa" tvg-name="Palestine TV SA" tvg-logo="https://www.1arablive.com/livetv/assets/images/1532875897.jpg" group-title="IPTV",Palestine Live TV
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="PalestineTV.sa" tvg-name="Palestine TV SA" tvg-logo="http://fomny.com/Video/Palestine/palestine-today-tv/logo.gif" group-title="IPTV",Palestine Al Yawm TV
+http://live.paltoday.tv:1935/paltv/live/chunklist_w1442589139.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="MAATV.in" tvg-name="MAA TV IN" tvg-logo="http://fomny.com/Video/Palestine/Maan-tv/logo.gif" group-title="IPTV",Maan
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/23557.ts
+#EXTINF:-1 tvg-chno="64" tvg-id="Lale.ua" tvg-name="Lale UA" tvg-logo="https://www.ewsat.com/Chs/Palestine/aqsa-satellite-channel-ps.png" group-title="IPTV",Al Aqsa
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-logo="http://fomny.com/Video/Palestine/Musawa/logo.gif" group-title="IPTV",Musawa TV
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="AWealthofEntertainment.us" tvg-name="AWE US" tvg-logo="http://fomny.com/Video/Palestine/AWDAH-TV/logo.gif" group-title="IPTV",Awdeh
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="ValuTV.us" tvg-name="Valu TV US" tvg-logo="http://fomny.com/Video/Palestine/Alqudsto-day-tv/logo.gif" group-title="IPTV",Al quds tv
+http://82.212.74.99:8000/live/hls/8170.m3u8?v=839179273&amp;tokenekot=fMN49g4wAhMBx3e5V8Fz
+#EXTINF:-1 tvg-chno="69" tvg-id="PalestineTV.sa" tvg-name="Palestine TV SA" tvg-logo="http://fomny.com/Video/Palestine/Palestinian-tv/logo.gif" group-title="IPTV",Palestinian Tv
+http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-logo="http://fomny.com/Video/Palestine/Najah-Tv/logo.gif" group-title="IPTV",An Najah Nbc
+http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="AlAoula.ma" tvg-name="Al Aoula MA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Al-Mamlaka_TV_logo.png/250px-Al-Mamlaka_TV_logo.png" group-title="IPTV",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="72" tvg-id="JordanTV.jo" tvg-name="Jordan TV JO" tvg-logo="http://static.iptv-epg.com/jo/JordanTV.jo.png" group-title="IPTV",Jordan TV
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="AlRoyaTV.jo" tvg-name="Al Roya TV JO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DTabPpEgL._SY355_.png" group-title="IPTV",Al Roya TV
+https://roya-live.ercdn.net/roya/roya_1080p.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="AmarinTV.th" tvg-name="Amarin TV TH" tvg-logo="https://2.bp.blogspot.com/-6eRy3RsesBE/WvleLCv3zfI/AAAAAAAAB5E/XqZ99eessEQThVIFsLxFBbYwHPoE5aEBgCLcBGAs/s1600/8766.PNG" group-title="IPTV",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="RotanaAflam.eg" tvg-name="Rotana Aflam EG" tvg-logo="https://www.tv.wataan.com/uploads/2642019-043743PM.png" group-title="IPTV",Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="RotanaClassic.eg" tvg-name="Rotana Classic EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaClassic.eg.png" group-title="IPTV",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="RotanaMusic.eg" tvg-name="Rotana Music EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaMusic.eg.png" group-title="IPTV",Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="RotanaDrama.eg" tvg-name="Rotana Drama EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaDrama.eg.png" group-title="IPTV",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="RotanaClassic.eg" tvg-name="Rotana Classic EG" tvg-logo="https://i.ya-webdesign.com/images/rotana-clip-logo.png" group-title="IPTV",Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="RotanaKhalijiah.eg" tvg-name="Rotana Khalijiah EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaKhalijiah.eg.png" group-title="IPTV",Rotana Khalijia
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaCinema.eg.png" group-title="IPTV",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/02.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/06/%D9%82%D9%86%D8%A7%D8%A9-%D9%85%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%88-%D8%B2%D9%85%D8%A7%D9%86-660x330-1280x720.png" group-title="IPTV",Maspero Zaman
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6645.ts
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://egypt.mom-rsf.org/typo3temp/_processed_/b/f/csm_15034-1456_import_76371b4ae1.jpg" group-title="IPTV",Dream
+http://livecdnh2.tvanywhere.ae/hls/dream2/03.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="ESPN.co" tvg-name="ESPN CO" tvg-logo="http://fomny.com/Video/Egypt/Panorama-food/logo.gif" group-title="IPTV",PNC Food
+http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="CBC.eg" tvg-name="CBC EG" tvg-logo="http://static.iptv-epg.com/eg/CBC.eg.png" group-title="IPTV",CBC
+http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/03.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="AlNaharDrama.eg" tvg-name="Al Nahar Drama EG" tvg-logo="http://static.iptv-epg.com/eg/AlNaharDrama.eg.png" group-title="IPTV",Alhayat Drama
+http://95.170.215.107/hls/m3u8/Alhayat-M-Backup.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://www.dish.com/international-packages/images/arabic/melodyclassic.png" group-title="IPTV",Melody Classic
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/8115.ts
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://yt3.ggpht.com/a/AGF-l79gcrgjVFwTT1-Ivarn3_hcyd-0m45bMOyq1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="IPTV",PNC Drama
+http://95.170.215.109/hls/m3u8/Pan-Drama-Backup.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="CBCSofra.eg" tvg-name="CBC Sofra EG" tvg-logo="http://static.iptv-epg.com/eg/CBCSofra.eg.png" group-title="IPTV",CBC Sofra
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/03.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://i.ytimg.com/vi/DD8TA0AA9PQ/hqdefault.jpg" group-title="IPTV",PNC Drama 2
+http://95.170.215.109/hls/m3u8/Panorama2-Backup.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="NileTV.eg" tvg-name="Nile TV EG" tvg-logo="http://static.iptv-epg.com/eg/NileTV.eg.png" group-title="IPTV",Nile Culture
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6654.ts
+#EXTINF:-1 tvg-chno="95" tvg-id="Dmc.hr" tvg-name="DMC HR" tvg-logo="http://static.iptv-epg.com/hr/Dmc.hr.png" group-title="IPTV",DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/03.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="AlHayat.eg" tvg-name="Al Hayat EG" tvg-logo="http://static.iptv-epg.com/eg/AlHayat.eg.png" group-title="IPTV",Alhayat
+http://livecdnh2.tvanywhere.ae/hls/hayat/index.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="NileComedy.eg" tvg-name="Nile Comedy EG" tvg-logo="http://static.iptv-epg.com/eg/NileComedy.eg.png" group-title="IPTV",Nile Comedy
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/5453
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eg-al-masriyah-4247.jpg" group-title="IPTV",Al Masriyah
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6540.ts
+#EXTINF:-1 tvg-chno="99" tvg-id="NileLife.eg" tvg-name="Nile Life EG" tvg-logo="http://static.iptv-epg.com/eg/NileLife.eg.png" group-title="IPTV",Nile Life
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6660.ts
+#EXTINF:-1 tvg-chno="100" tvg-id="NileFamily.eg" tvg-name="Nile Family EG" tvg-logo="http://static.iptv-epg.com/eg/NileFamily.eg.png" group-title="IPTV",Nile Family
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6659.ts
+#EXTINF:-1 tvg-chno="101" tvg-id="CBCDrama.eg" tvg-name="CBC Drama EG" tvg-logo="http://static.iptv-epg.com/eg/CBCDrama.eg.png" group-title="IPTV",CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/01.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV IN" tvg-logo="http://vzlivemenatv.blob.core.windows.net/pictures/a12edi9rm/a12edi9rm.png" group-title="IPTV",Al-Nahar TV
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/02.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="LCI.mu" tvg-name="LCI MU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQmq7ZlyTJkHs6dNDu8RPXKjL3zk9qvof9Zco15xK45d6BgSMKQ&s" group-title="IPTV",Cima
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/6644.ts
+#EXTINF:-1 tvg-chno="104" tvg-id="NileCinema.eg" tvg-name="Nile Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/NileCinema.eg.png" group-title="IPTV",Nile cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="NileDrama.eg" tvg-name="Nile Drama EG" tvg-logo="http://static.iptv-epg.com/eg/NileDrama.eg.png" group-title="IPTV",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/03.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="AlNaharDrama.eg" tvg-name="Al Nahar Drama EG" tvg-logo="http://static.iptv-epg.com/eg/AlNaharDrama.eg.png" group-title="IPTV",Nahar Drama
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.iptv-epg.com/ae/DubaiTV.ae.png" group-title="IPTV",Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-chno="108" tvg-id="IshwarTV.in" tvg-name="Ishwar TV IN" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SharjahTV.png" group-title="IPTV",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="dubaizaman.ae" tvg-name="Dubai Zaman AE" tvg-logo="http://static.iptv-epg.com/ae/dubaizaman.ae.png" group-title="IPTV",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="NoorDubai.ae" tvg-name="Noor Dubai AE" tvg-logo="http://static.iptv-epg.com/ae/NoorDubai.ae.png" group-title="IPTV",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="AajTak.in" tvg-name="Aaj Tak IN" tvg-logo="http://www.mbhadvocates.com/wp-content/uploads/2016/11/ajman_tvlogo1.jpg" group-title="IPTV",Ajman
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="SamaDubai.ae" tvg-name="Sama Dubai AE" tvg-logo="http://static.iptv-epg.com/ae/SamaDubai.ae.png" group-title="IPTV",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="AlRoyaTV.jo" tvg-name="Al Roya TV JO" tvg-logo="https://ln.heytv.org/wp-content/uploads/2019/03/Al-Wousta-TV-1.jpg" group-title="IPTV",Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="AbuDhabiDrama.ae" tvg-name="Abu Dhabi Drama AE" tvg-logo="http://static.iptv-epg.com/ae/AbuDhabiDrama.ae.png" group-title="IPTV",Abu Dhabi Drama
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="AlSharqiya.iq" tvg-name="Al Sharqiya IQ" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="IPTV",Al sharqIya Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="AbuDhabi.ae" tvg-name="Abu Dhabi AE" tvg-logo="http://static.iptv-epg.com/ae/AbuDhabi.ae.png" group-title="IPTV",Abu Dhabi 1
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://www.highpro1.com/sites/default/files/styles/cifnw/public/clients/logo_34.jpg?itok=F29Tp37F" group-title="IPTV",Alrai TV
+http://line.it-ott.net:8000/VFS56PecA4/Z119vkc4Am/138613
+#EXTINF:-1 tvg-chno="118" tvg-id="beINSports1.qa" tvg-name="beIN Sports 1 QA" tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="IPTV",BeinSport 1
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/7776.ts
+#EXTINF:-1 tvg-chno="126" tvg-logo="http://fomny.com/Video/Arabic/Mazzika/logo.gif" group-title="IPTV",Mazzika TV
+http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="MbcWanasa.eg" tvg-name="MBC Wanasa EG" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/00/44/f400446b-09f7-506f-23a3-ced61982d852/source/512x512bb.jpg" group-title="IPTV",Wanasah
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/8165.ts
+#EXTINF:-1 tvg-chno="127" tvg-id="MajidKids.ae" tvg-name="Majid Kids AE" tvg-logo="http://static.iptv-epg.com/ae/MajidKids.ae.png" group-title="IPTV",Majid Kids
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="JeemTV.qa" tvg-name="Jeem TV QA" tvg-logo="http://static.iptv-epg.com/qa/JeemTV.qa.png" group-title="IPTV",Jeem
+http://95.170.215.120/hls/m3u8/jeem.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="129" tvg-id="ToyourAlJannah.jo" tvg-name="Toyour Al Jannah JO" tvg-logo="http://static.iptv-epg.com/jo/ToyourAlJannah.jo.png" group-title="IPTV",ToyourAlJannah
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/5668
+#EXTINF:-1 tvg-chno="130" tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b1W0RimBUioK8J9h3EAvhlecGtrcF_AtjbdHEdnoPMAgQmdb81kjwYBvFpMKtmMZ_11pTFCAAOIzPLga9tWYYas.jpg" group-title="IPTV",Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8?v=839179273
+#EXTINF:-1 tvg-chno="131" tvg-logo="http://fomny.com/Video/Arabic/04/Cartoon-Network-Arabic/logo.gif" group-title="IPTV",Cartoon Network Arabic
+http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-logo="http://fomny.com/Video/Arabic/03/national-geographic-arabic/logo.gif" group-title="IPTV",Nat Geo Wild Middle East
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://pbs.twimg.com/profile_images/573950909857669120/iKA4l-5F.png" group-title="IPTV",Mea TV
+http://64.227.88.31/hls/yourstreamkey.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODU3NTg1Njk0NDU5/espn-logojpg.jpg" group-title="IPTV",ESPN
+http://npse.brots.world/espn2.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://logodix.com/logo/1870688.png" group-title="IPTV",ESPN 2
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/45580.ts
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-espnu-without-cable.png" group-title="IPTV",ESPN U
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/4064
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png" group-title="IPTV",ESPN NEWS
+http://ok2.se:8000/Q8TFPtkuj1/CVnug0ejce/59038
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="IPTV",NBA TV
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/45534.ts
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fox_sports_detroit.png/311px-Fox_sports_detroit.png" group-title="IPTV",Fox Sports Detroit
+http://line.it-ott.net:8000/live/VFS56PecA4/Z119vkc4Am/45568.ts
