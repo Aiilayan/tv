@@ -11,8 +11,6 @@ http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/majd/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="Peachtree.ca" tvg-name="Peachtree TV CA" tvg-logo="https://i.pinimg.com/originals/cb/51/59/cb51596e3efd4a381d593cdd528928ff.png" group-title="IPTV",Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="IqraaTV.sa" tvg-name="Iqraa TV SA" tvg-logo="http://static.iptv-epg.com/sa/IqraaTV.sa.png" group-title="IPTV",Iqra
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://lh5.googleusercontent.com/-U2hWtBCaCdU/VWHOOB19pKI/AAAAAAAADHM/xDxWtRVlCSA/w391-h266-no/ahl-alquran.png" group-title="IPTV",Ahl -Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist_w358424849_b1364000.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="MakkalTV.in" tvg-name="Makkal TV IN" tvg-logo="http://fomny.com/Video/Arabic/03/makkah/logo2.gif" group-title="IPTV",Makkah Tv
